@@ -23,6 +23,3 @@ We will meet up in person and discuss progress and what needs to be done.
 ## Add any other rules that your team establishes to help each other work effectively together
 1. Be good at communicating between each member.
 2. Be diligent and responsible on the task you are assigned.
-3. 
-4.
-5.
