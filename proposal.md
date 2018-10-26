@@ -56,8 +56,9 @@ The program needs to receive a list of meetings scheduled for the day, and their
 JFX for GUI, all inputs will be entered via text boxes incorporated into the GUI.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-
+A unit that computes priorities of events.
+A unit that manipulates your schedule.
+A unit that outputs a graphic result.
 
 Name each interface or class and briefly describe its function or purpose.
 1. Event Class // a Event object containing the detail about the event.
