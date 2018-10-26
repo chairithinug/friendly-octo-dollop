@@ -53,7 +53,7 @@ The program needs to receive a list of meetings scheduled for the day, and their
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+JFX for GUI, all inputs will be entered via text boxes incorporated into the GUI.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
