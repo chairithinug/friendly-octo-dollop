@@ -59,8 +59,10 @@ Our program would be based on a scheduler program. Based on input from the emplo
 
 
 Name each interface or class and briefly describe its function or purpose.
-Event Class // a Event object containing the detail about the event.
-Person Class // a person class containing some characteristics and relevent information.
+
+1. Event Class // a Event object containing the detail about the event.
+2. Person Class // a person class containing some characteristics and relevent information.
+3. Schedule Class // a schedule generated for users
 
 
 
