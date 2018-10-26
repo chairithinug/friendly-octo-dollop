@@ -47,6 +47,7 @@ Our program would be based on a scheduler program. Based on input from the emplo
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+The program needs to receive a list of meetings scheduled for the day, and their urgency as listed by the meeting description. After the meeting the employee can rate the meeting on multiple different factors. Based on the input received from the employee, the program can alter the original priority of future meetings.
 
 
 
@@ -59,11 +60,6 @@ Our program would be based on a scheduler program. Based on input from the emplo
 
 
 Name each interface or class and briefly describe its function or purpose.
-
-1. Event Class // a Event object containing the detail about the event.
-2. Person Class // a person class containing some characteristics and relevent information.
-3. Schedule Class // a schedule generated for users
-
 
 
 ## Edit and Submit this file and any figures referenced by this document.
