@@ -1,4 +1,4 @@
-# X-Team 72 Project Proposal
+# X-Team 72 Meeting Manager Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -32,13 +32,17 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+The office space is riddled with unnecessary and unproductive meetings. Employees are constantly having to pick which meetings to attend, and the question is: which meeting should the employee prioritize over another?
+
+Our program would be based on a scheduler program. Based on input from the employee: do they like the meeting host, is the meeting topic relevant to them, etc. After meetings they would rate the  meeting on a scale based on multiple factors. The program would create a schedule of meetings for the employee to attend based on the priority of the meeting.
+
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Meeting Manager Proposal
 
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+2. Output: Schedule for employee of meetings to attend throughout the day.
 
 
 
