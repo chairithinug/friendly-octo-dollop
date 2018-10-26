@@ -60,6 +60,9 @@ The program needs to receive a list of meetings scheduled for the day, and their
 
 
 Name each interface or class and briefly describe its function or purpose.
+1. Event Class // a Event object containing the detail about the event.
+2. Person Class // a person class containing some characteristics and relevent information.
+3. Schedule Class // a schedule generated for users
 
 
 ## Edit and Submit this file and any figures referenced by this document.
